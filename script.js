@@ -1,5 +1,5 @@
 /* 
-	Author : Samir Paul
+	Author : Akanksha Verma
 */
 
 /// min heap implementation 
