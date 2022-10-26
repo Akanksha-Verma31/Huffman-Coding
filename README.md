@@ -39,7 +39,7 @@
 
     * Compression - Compression Ratio is also displayed 
 
-    <a href="#"> ![compression](images/readme-images/step3.png) </a>
+    <a href="#"> ![compression](images/readme-images/step2.png) </a>
     
     * De-compression
 
@@ -49,7 +49,9 @@
 
 <a href="#"> ![noFile](images/readme-images/nofile.png) </a>
 
-<a href="#"> ![smallFile](images/readme-images/verysmallfile.png)  </a>
+<a href="#"> ![smallFile](images/readme-images/invalid-file.png)  </a>
+
+<a href="#"> ![smallFile](images/readme-images/successfully-submitted.png)  </a>
 
 
 
